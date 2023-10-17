@@ -41,6 +41,4 @@ Welcome to Car Showcase, a cutting-edge Next.js 13 application that demonstrates
 
 3. Open [http://localhost:3000](http://localhost:3000) to view the project in your browser.
 
-Feel free to test out the advanced search functionality and experience the seamless user interface.
 
-Thank you for choosing Car Showcase for your project! If you have any questions or feedback, please don't hesitate to reach out. Happy showcasing! 🚗✨
